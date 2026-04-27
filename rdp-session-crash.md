@@ -1,4 +1,4 @@
-# RDP session crash during 1C usage (mstsc.exe)
+# RDP session crash (mstsc.exe, printer driver issue)
 
 ## Context
 Работа велась внутри корпоративной сети (доменная инфраструктура, доступ к системам через RDP, включая 1С).
@@ -20,6 +20,7 @@
 - Application Error (Event ID 1000)
 - падает процесс `mstsc.exe`
 - код ошибки: `0xc0000005`
+По коду ошибки стало понятно, что это не просто сбой, а проблема на уровне доступа к памяти.
 
 В ошибке фигурировал файл:
 - `LMFX1N4Z.DLL`
