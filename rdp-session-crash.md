@@ -20,7 +20,7 @@
 - Application Error (Event ID 1000)
 - падает процесс `mstsc.exe`
 - код ошибки: `0xc0000005`
-- <img width="1152" height="1536" alt="11" src="https://github.com/user-attachments/assets/e593c77c-62b0-48be-9319-389712d535dd" />
+<img width="1152" height="953" alt="1111" src="https://github.com/user-attachments/assets/1eabfd59-9401-4fbb-8b48-cd0d2204e02f" />
 По коду ошибки стало понятно, что это не просто сбой, а проблема на уровне доступа к памяти.
 
 В ошибке фигурировал файл:
