@@ -30,7 +30,7 @@
 В ошибке фигурировал файл:
 
 - `LMFX1N4Z.DLL`
-<img width="1280" height="158" alt="мффффмфмфмфмфф" src="https://github.com/user-attachments/assets/5a5ff8fe-db04-4a8a-911d-409adf3269f6" />
+<img width="1160" height="150" alt="ИУЦ" src="https://github.com/user-attachments/assets/26f53b37-3477-4d63-8d11-7223878c9506" />
 
 Проверил, где он находится:
 - папка `spool\drivers` драйвер печати
