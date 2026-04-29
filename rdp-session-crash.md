@@ -28,7 +28,7 @@
 <img width="1152" height="180" alt="22222" src="https://github.com/user-attachments/assets/234dd807-b971-4ebd-aa1d-b8c1f81a0706" />
 
 Проверил, где он находится:
-- папка `spool\drivers` → драйвер печати
+- папка `spool\drivers` драйвер печати
 
 ## Analysis
 Стало понятно, что проблема не в 1С, а в самом RDP-клиенте.
