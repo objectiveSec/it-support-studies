@@ -18,9 +18,9 @@
 
 Нашёл:
 - Application Error (Event ID 1000)
-- падает процесс `mstsc.exe`
 <img width="752" height="447" alt="photo_2026-04-30_00-17-35" src="https://github.com/user-attachments/assets/106bf016-c121-4798-9bea-da46af3e53a1" />
-
+  
+- падает процесс `mstsc.exe`
 
 - код ошибки: `0xc0000005`
 <img width="616" height="429" alt="иууиуииу" src="https://github.com/user-attachments/assets/883b0a9f-732c-468e-ba48-63f05c6810fb" />
