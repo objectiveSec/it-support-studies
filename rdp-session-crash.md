@@ -41,7 +41,7 @@
 
 ## Solution
 Проверил настройки файла подключения (.rdp):
-был параметр:
+- был параметр:
 redirectprinters:i:1
 - Поменял на:
 redirectprinters:i:0
