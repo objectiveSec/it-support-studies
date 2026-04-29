@@ -1,4 +1,4 @@
-# RDP session crash (mstsc.exe, printer driver issue)
+# RDP session crash (mstsc.exe)
 
 ## Context
 Работа велась внутри корпоративной сети (доменная инфраструктура, доступ к системам через RDP, включая 1С).
