@@ -24,6 +24,7 @@
 По коду ошибки стало понятно, что это проблема на уровне доступа к памяти.
 
 В ошибке фигурировал файл:
+
 - `LMFX1N4Z.DLL`
 <img width="1152" height="180" alt="22222" src="https://github.com/user-attachments/assets/234dd807-b971-4ebd-aa1d-b8c1f81a0706" />
 
