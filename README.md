@@ -14,7 +14,7 @@
 
 🛠 Используемые инструменты
 - Windows Event Viewer
-- Remote Desktop (RDP)
+- Remote Desktop RDP
 - системные журналы и диагностика ошибок
 - базовые инструменты Windows
 
