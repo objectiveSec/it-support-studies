@@ -58,7 +58,7 @@
 В качестве обходного решения было выполнено:
 - Был вернут параметр: redirectprinters:i: с "0" обратно на "1"
 - Локальное дублирование библиотеки LMFX1N4Z.DLL в рабочий путь запуска (.rdp-файла).
-  <img width="1171" height="555" alt="image" src="https://github.com/user-attachments/assets/ce0a1164-7815-45cc-9b3d-de9b4eefee76" />
+<img width="1171" height="555" alt="new" src="https://github.com/user-attachments/assets/5d3512eb-131c-42ac-876e-e9bd4f093a31" />
 
 Такой вариант сработал потому, что Windows ищет DLL не только в System32, а в определённом порядке:
 - папка запуска приложения
